@@ -1,10 +1,11 @@
-Bermet Kerim Kyzy - Data Analyst 
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Bermet Kerim Kyzy - Data Analyst 
 
-<!---
-bermetkerim/bermetkerim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[CLICK FOR CV](https://drive.google.com/file/d/1NtxtmJosk6_EoFkoHaABRba8jdnyOnpS/view?usp=sharing)
+
+I work in
+- Python: pandas, matplotlib
+- SQL: window functions, subqueries
+- Excel: pivot tables
+- Tableau 
+
+
