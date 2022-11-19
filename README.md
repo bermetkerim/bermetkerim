@@ -2,7 +2,7 @@
 
 [CLICK FOR CV](https://drive.google.com/file/d/1NtxtmJosk6_EoFkoHaABRba8jdnyOnpS/view?usp=sharing)
 
-I work in
+Technologies: 
 - Python: pandas, matplotlib
 - SQL: window functions, subqueries
 - Excel: pivot tables
