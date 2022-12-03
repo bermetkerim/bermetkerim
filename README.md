@@ -1,6 +1,6 @@
 # Bermet Kerim Kyzy - Data Analyst 
 
-[CLICK FOR CV](https://drive.google.com/file/d/1NtxtmJosk6_EoFkoHaABRba8jdnyOnpS/view?usp=sharing)
+[CLICK FOR CV](https://drive.google.com/file/d/1XK6QxA0RN93WQOle4Kk8m5cELdz0XGZG/view?usp=sharing)
 
 Technologies: 
 - Python: pandas, matplotlib
