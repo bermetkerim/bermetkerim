@@ -3,7 +3,7 @@
 [CLICK FOR CV](https://drive.google.com/file/d/1XK6QxA0RN93WQOle4Kk8m5cELdz0XGZG/view?usp=sharing)
 
 Technologies: 
-- Python: pandas, matplotlib
+- Python: pandas, matplotlib, numpy
 - SQL: window functions, subqueries
 - Excel: pivot tables
 - Tableau 
