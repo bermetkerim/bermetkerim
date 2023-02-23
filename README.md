@@ -1,6 +1,6 @@
 # Bermet Kerim Kyzy - Data Analyst | BI Developer
 
-[CLICK FOR CV](https://drive.google.com/file/d/1XK6QxA0RN93WQOle4Kk8m5cELdz0XGZG/view?usp=sharing)
+[CLICK FOR CV](https://drive.google.com/file/d/1onjaItpMArGSpLp0AfYYvcJvM9PW1xjy/view?usp=sharing)
 
 Technologies: 
 - Python: pandas, matplotlib, numpy
